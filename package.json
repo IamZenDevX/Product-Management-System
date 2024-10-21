@@ -1,0 +1,32 @@
+{
+    "name": "product-management-system",
+    "version": "1.0.0",
+    "main": "app.js",
+    "description": "",
+    "homepage": "",
+    "license": "MIT",
+    "author": "",
+    "keywords": [],
+    "scripts": {
+        "start": "nodemon app.js",
+        "dev": "nodemon app.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+       
+        "jsonwebtoken": "^9.0.2",
+       
+        "mongoose": "^8.5.1",
+        "nodemon": "^3.1.4"
+    },
+    "bugs": {
+        "url": "",
+        "email": ""
+    },
+    "repository": {
+        "type": "",
+        "url": ""
+    }
+}
