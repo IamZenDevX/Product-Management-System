@@ -1,4 +1,4 @@
-# Product-Management-System
+Product-Management-System
 <h2 align="left">Introduction:</h2>
 
 The **Product Management System** is a comprehensive platform designed to manage products, providers, and categories. The system allows administrators to efficiently manage a wide range of products, track the suppliers/providers, and categorize items for easy navigation and organization. This repository provides the backend and frontend components to handle CRUD operations for products, categories, and providers.
