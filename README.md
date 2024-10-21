@@ -1,9 +1,9 @@
 # Product-Management-System
-# Introduction:
+<h2 align="left">Introduction:</h2>
 
 The **Product Management System** is a comprehensive platform designed to manage products, providers, and categories. The system allows administrators to efficiently manage a wide range of products, track the suppliers/providers, and categorize items for easy navigation and organization. This repository provides the backend and frontend components to handle CRUD operations for products, categories, and providers.
 
-# Key Features :
+<h2 align="left">Key Features:</h2>
 
 1. **Category Management**
     - Create, update, delete, and list product categories.
@@ -18,16 +18,16 @@ The **Product Management System** is a comprehensive platform designed to manage
     - Associate products with specific providers.
     - List products supplied by a particular provider.
 
-## **Tools Used:**
+<h2 align="left">Tools Used:</h2>
 
 ![Zendevx Technology](https://github.com/user-attachments/assets/36c979fe-929e-44a4-8958-9c15dc466e35)
 
-## Testing Tools Used:
+<h2 align="left">Testing Tools Used:</h2>
 
 ![PostMan Github](https://github.com/user-attachments/assets/3381c639-715f-40b9-85d3-08384553ee12)
 
 
-### **Library:**
+<h2 align="left">Library:</h2>
 
 - bcryptjs
 - connect-mongo
@@ -42,7 +42,7 @@ The **Product Management System** is a comprehensive platform designed to manage
 - nodemon
 - validator
 
-## 1. **Database Structure**
+<h2 align="left">1. Database Structure</h2>
 
 The platform will require a relational database to manage User And Tasks . Below is a proposed database structure with the key tables.
 
@@ -82,7 +82,7 @@ The platform will require a relational database to manage User And Tasks . Below
 | email | String |
 | phone | String |
 
-### **Modules and Components**:
+<h2 align="left">Modules and Components:</h2>
 
 ### 1. **Category Module**
 
@@ -103,14 +103,12 @@ The platform will require a relational database to manage User And Tasks . Below
 - Providers are associated with products, making it easy to track which provider supplies a specific product.
 - Providers' contact details and business information are stored for reference.
 
-# **Development with ZenDevx:**
+<h2 align="left">Development with ZenDevx:</h2>
 
 <a href="https://www.zendevx.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7dd7220f-e83c-4490-9ac2-beab3bcf8c35" alt="ZenDevX" height="auto" width="auto" /></a>
 
 
-# **🐦 Connect With Me:**
-
-           
+<h2 align="left">🐦 Connect With Me:</h2>
 
 <a href="https://www.linkedin.com/company/zendevx/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9a6080ca-4265-43e5-8652-9454651970a9" alt="ZenDevX" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@zendevx" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1beefdd6-fa17-49c9-bde7-e8f30f539b96" alt="ZenDevX" height="50" width="50" /></a>
