@@ -56,7 +56,17 @@ The platform will require a relational database to manage category,Product And P
 | CategoryID | String |
 | name | String |
 
-### b) **Product**
+### b) **Provider**
+
+| **Field Name** | **Type** |
+| --- | --- |
+| ProviderID | String |
+| name | String |
+| website | String |
+| email | String |
+| phone | String |
+
+### c) **Product**
 
 | **Field Name** | **Type** |
 | --- | --- |
@@ -71,15 +81,7 @@ The platform will require a relational database to manage category,Product And P
 | launchDate | Date |
 | status | String |
 
-### c) **Provider**
 
-| **Field Name** | **Type** |
-| --- | --- |
-| ProviderID | String |
-| name | String |
-| website | String |
-| email | String |
-| phone | String |
 
 <h2 align="left">Modules and Components:</h2>
 
