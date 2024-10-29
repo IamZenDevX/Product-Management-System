@@ -43,7 +43,7 @@ The Product Management System is a Comprising a complete platform targeted to ha
 
 <h2 align="left">1. Database Structure</h2>
 
-The platform will require a relational database to manage User And Tasks . Below is a proposed database structure with the key tables.
+The platform will require a relational database to manage category,Product And Provider . Below is a proposed database structure with the key tables.
 
 ### **Tables**:
 
