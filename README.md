@@ -85,7 +85,7 @@ The platform will require a relational database to manage category,Product And P
 
 <h2 align="left">Modules and Components:</h2>
 
-### **Modules and Components**:
+
 
 ### 1. **Category Module**
 
